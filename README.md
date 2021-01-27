@@ -1,8 +1,3 @@
-# React-portfolio
+# React Portfolio - Vasco Meerman
 
-A boilrplate react portfolio to showcase your projects and work
-
-
-Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
-
-![](test.gif)
+Base template forked from -> [react-portfolio by shloksomani](https://shloksomani.github.io/react-portfolio/)
