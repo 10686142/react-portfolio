@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "vascomeerman-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shloksomani.github.io/react-portfolio/",
+  "homepage": "https://vascomeerman.com",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "gh-pages": "^2.2.0",

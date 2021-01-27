@@ -14,6 +14,8 @@ class Intro extends React.Component {
         <div className="intro-content display-table">
           <div className="table-cell">
             <div className="container">
+              <h2 className="intro-construction mb-">(Under Construction)</h2>
+
               <h1 className="intro-title mb-4">Hello, I am Vasco Meerman</h1>
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
